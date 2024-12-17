@@ -40,9 +40,9 @@ Linguistic Intelligence is a Flask-based web application that provides users wit
 5. Open your browser and visit `http://127.0.0.1:5000/`.
 
 ## Project Structure-
-`app.py` Main Application File
-`requirements.txt` Dependencies for the Project
-`index.html` HTML file for the User Interface
+-`app.py` Main Application File
+-`requirements.txt` Dependencies for the Project
+-`index.html` HTML file for the User Interface
 
 ## Future Enhancements
 - Add more languages for translation.
